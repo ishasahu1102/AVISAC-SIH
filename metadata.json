@@ -1,0 +1,7 @@
+{
+  "name": "AI DBT Form-Filler",
+  "description": "AI-powered multilingual Aadhaar Seeding & DBT Awareness tool with auto-form filling.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
